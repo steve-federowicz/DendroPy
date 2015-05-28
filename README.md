@@ -17,17 +17,17 @@ DendroPy runs under any version of Python 2 from 2.4 upwards (i.e., Python 2.4, 
 
 If you have `setuptools <http://pypi.python.org/pypi/setuptools>`_ installed, you can install the latest public release of DendroPy directly from the `Python Package Index <http://pypi.python.org/pypi/DendroPy/>`_ by running::
 
-    $ sudo easy_install -U dendropy
+    sudo easy_install -U dendropy
 
 Alternatively, if you have `pip <http://pypi.python.org/pypi/pip>`_ installed, you can run::
 
-    $ sudo pip install dendropy
+    sudo pip install dendropy
 
 If you download the source code archive from the `Python Package Index <http://pypi.python.org/pypi/DendroPy/>`_, you can unarchive it and install it from the local source by running::
 
-    $ tar -xvzf DendroPy-3.x.x.tar.gz
-    $ cd DendroPy-3.x.x
-    $ sudo python setup.py install
+    tar -xvzf DendroPy-3.x.x.tar.gz
+    cd DendroPy-3.x.x
+    sudo python setup.py install
 
 Documentation
 =============
@@ -45,7 +45,7 @@ Source Code Repository
 
 The DendroPy source code is version-controlled using `Git <http://git-scm.com/>`_, and the `DendroPy Git repository <http://github.com/jeetsukumaran/DendroPy>`_ can be cloned by running::
 
-    $ git clone git://github.com/jeetsukumaran/DendroPy.git
+    git clone git://github.com/jeetsukumaran/DendroPy.git
 
 Change History
 ==============
